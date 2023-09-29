@@ -11,6 +11,6 @@ elif [ $i -eq 8 ]
 then
 echo "good luck"
 else
-echo "Best School'
+echo "Best School"
 fi
 done
