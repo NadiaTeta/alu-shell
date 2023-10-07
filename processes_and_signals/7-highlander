@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# making a copy
+#Making a copy
 trap "echo 'I am invicible!!!'" SIGTERM
 while true; do
 echo "To infinity and beyond"
