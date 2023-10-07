@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this script prints the bash pid
+ps u | grep bash
